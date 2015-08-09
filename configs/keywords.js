@@ -1,7 +1,28 @@
 module.exports = [
+'rt και κέρδισε',
+  'retweet και κέρδισε',
+  'share και κέρδισε',
+  'enter και κέρδισε',
+  'rt και κερδισε',
+  'retweet και κερδισε',
+  'share και κερδισε',
+  'enter και κερδισε',
+  'rt κερδισε',
+  'retweet κερδισε',
+  'share κερδισε',
+  'enter κερδισε',
+  'retweet κέρδισε',
+  'share κέρδισε',
+  'enter κέρδισε',
   'rt to win',
   'retweet to win',
   'share to win',
-  'rt win',
-  'retweet win'
+  'rt κέρδισε',
+  '#Plaisio_contest',
+  '#PlaisioContest',
+  '#giveaway',
+  '#contest',
+  '#competition',
+  '#win'
+
 ].join(',');
